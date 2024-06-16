@@ -19,7 +19,6 @@ public class Main {
 
     public static void testMyHashMap() {
         MyHashMap<String, Integer> map = new MyHashMapImpl<>();
-
         map.put("one", 1);
         map.put("two", 2);
         map.put("three", 3);
